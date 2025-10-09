@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 resources/
+transcripts/
+data/
+*.csv
+*.json
 # C extensions
 *.so
 
